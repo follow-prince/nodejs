@@ -121,3 +121,6 @@ print("cSpSxZKCrv")
 print("hi") 
 a = 41
 print("HmAXfnnIEO")
+print("hi") 
+a = 42
+print("gKMiiZOcrR")
