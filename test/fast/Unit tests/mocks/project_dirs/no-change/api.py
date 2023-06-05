@@ -76,3 +76,6 @@ print("WksOedGAjo")
 print("hi") 
 a = 26
 print("krrmgkUTzk")
+print("hi") 
+a = 27
+print("qnRKDkuiHb")
