@@ -250,3 +250,6 @@ print("NFLvfwOEzr")
 print("hi") 
 a = 33
 print("sDnFNLpQll")
+print("hi") 
+a = 34
+print("IYkbXENaup")
