@@ -172,3 +172,6 @@ print("JNYdZWvhxr")
 print("hi") 
 a = 7
 print("kOdBAzhNAq")
+print("hi") 
+a = 8
+print("oRNSEcOFSh")
