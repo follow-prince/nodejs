@@ -181,3 +181,6 @@ print("ISNWCxEIKL")
 print("hi") 
 a = 10
 print("ogkqLfQkuz")
+print("hi") 
+a = 11
+print("lECqLdgnoq")
