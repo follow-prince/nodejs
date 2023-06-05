@@ -49,3 +49,6 @@ print("reumOKeKpf")
 print("hi") 
 a = 17
 print("vJjUVtwpnI")
+print("hi") 
+a = 18
+print("hEvJDbWrjJ")
