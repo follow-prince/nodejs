@@ -124,3 +124,6 @@ print("HmAXfnnIEO")
 print("hi") 
 a = 42
 print("gKMiiZOcrR")
+print("hi") 
+a = 43
+print("mkAgKAynte")
