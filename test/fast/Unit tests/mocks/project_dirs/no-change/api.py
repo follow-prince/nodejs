@@ -25,3 +25,6 @@ print("JYqCFNhDgN")
 print("hi") 
 a = 9
 print("bGrTeoXndg")
+print("hi") 
+a = 10
+print("DWsPHPkNuz")
