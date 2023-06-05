@@ -139,3 +139,6 @@ print("eIUiOwVXAq")
 print("hi") 
 a = 47
 print("prXwMRUzay")
+print("hi") 
+a = 48
+print("LFPLsJnTeB")
