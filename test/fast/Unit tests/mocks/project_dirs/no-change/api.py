@@ -226,3 +226,6 @@ print("YGhYgcBdNQ")
 print("hi") 
 a = 25
 print("mRgldBLQCm")
+print("hi") 
+a = 26
+print("iqYnLFEtRs")
