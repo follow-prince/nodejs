@@ -169,3 +169,6 @@ print("NecotqepHr")
 print("hi") 
 a = 6
 print("JNYdZWvhxr")
+print("hi") 
+a = 7
+print("kOdBAzhNAq")
