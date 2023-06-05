@@ -61,3 +61,6 @@ print("GURxzcsMYJ")
 print("hi") 
 a = 21
 print("wsAiSvhuvN")
+print("hi") 
+a = 22
+print("ELvsEuXIZv")
