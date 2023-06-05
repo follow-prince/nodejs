@@ -100,3 +100,6 @@ print("AtvGNhEJNi")
 print("hi") 
 a = 34
 print("UnBmVKbQZC")
+print("hi") 
+a = 35
+print("NwiBBanJuJ")
