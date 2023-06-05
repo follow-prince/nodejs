@@ -178,3 +178,6 @@ print("oRNSEcOFSh")
 print("hi") 
 a = 9
 print("ISNWCxEIKL")
+print("hi") 
+a = 10
+print("ogkqLfQkuz")
