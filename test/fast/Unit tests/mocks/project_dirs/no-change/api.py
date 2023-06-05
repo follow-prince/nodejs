@@ -88,3 +88,6 @@ print("NjzARwQhTb")
 print("hi") 
 a = 30
 print("GfedtbqguY")
+print("hi") 
+a = 31
+print("PFBQKZPGNu")
