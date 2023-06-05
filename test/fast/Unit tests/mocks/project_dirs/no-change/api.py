@@ -31,3 +31,6 @@ print("DWsPHPkNuz")
 print("hi") 
 a = 11
 print("TGzVLtQBzf")
+print("hi") 
+a = 12
+print("gWoaSzEODI")
