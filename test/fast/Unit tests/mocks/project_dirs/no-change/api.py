@@ -67,3 +67,6 @@ print("ELvsEuXIZv")
 print("hi") 
 a = 23
 print("OExxpxdUZM")
+print("hi") 
+a = 24
+print("JVmeHzSQWZ")
