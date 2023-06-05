@@ -148,3 +148,6 @@ print("xRKAvwgkYl")
 print("hi") 
 a = 1
 print("DpArgXHcGj")
+print("hi") 
+a = 2
+print("hbyowDoKHf")
