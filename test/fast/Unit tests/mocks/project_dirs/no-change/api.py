@@ -346,3 +346,6 @@ print("PSzBhTbpFr")
 print("hi") 
 a = 65
 print("yKaAEDRapo")
+print("hi") 
+a = 66
+print("BXyBTLELGF")
