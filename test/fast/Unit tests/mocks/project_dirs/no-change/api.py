@@ -85,3 +85,6 @@ print("LVrqnfdFNU")
 print("hi") 
 a = 29
 print("NjzARwQhTb")
+print("hi") 
+a = 30
+print("GfedtbqguY")
