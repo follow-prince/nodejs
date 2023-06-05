@@ -106,3 +106,6 @@ print("NwiBBanJuJ")
 print("hi") 
 a = 36
 print("ncwJFZNnWk")
+print("hi") 
+a = 37
+print("VTcuWjcTsO")
