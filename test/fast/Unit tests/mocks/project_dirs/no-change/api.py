@@ -145,3 +145,6 @@ print("LFPLsJnTeB")
 print("hi") 
 a = 49
 print("xRKAvwgkYl")
+print("hi") 
+a = 1
+print("DpArgXHcGj")
