@@ -52,3 +52,6 @@ print("vJjUVtwpnI")
 print("hi") 
 a = 18
 print("hEvJDbWrjJ")
+print("hi") 
+a = 19
+print("onwoXhYHCU")
