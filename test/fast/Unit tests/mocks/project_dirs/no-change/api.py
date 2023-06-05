@@ -154,3 +154,6 @@ print("hbyowDoKHf")
 print("hi") 
 a = 1
 print("RuFkWisuWM")
+print("hi") 
+a = 2
+print("gfVgnmTmEd")
