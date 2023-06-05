@@ -187,3 +187,6 @@ print("lECqLdgnoq")
 print("hi") 
 a = 12
 print("oUWskcrnap")
+print("hi") 
+a = 13
+print("VodUVRqczz")
