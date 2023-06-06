@@ -427,3 +427,6 @@ print("NmTQeYPWSI")
 print("hi") 
 a = 6
 print("QupKAIxxKJ")
+print("hi") 
+a = 7
+print("seMQkvwlEX")
