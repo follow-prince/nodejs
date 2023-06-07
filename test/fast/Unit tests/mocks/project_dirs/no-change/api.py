@@ -559,3 +559,6 @@ print("ZGNdFaSHYv")
 print("hi") 
 a = 6
 print("bfWkEmcuyv")
+print("hi") 
+a = 7
+print("enByeJHEws")
