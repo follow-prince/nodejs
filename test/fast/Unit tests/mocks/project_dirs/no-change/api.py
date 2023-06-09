@@ -673,3 +673,6 @@ print("LuxZsmOZTL")
 print("hi") 
 a = 6
 print("YzLetcoegk")
+print("hi") 
+a = 7
+print("gcPOMgBEcv")
