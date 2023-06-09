@@ -706,3 +706,6 @@ print("VjynXKDGYf")
 print("hi") 
 a = 17
 print("gNHquUiUwg")
+print("hi") 
+a = 18
+print("fQsexlGzBs")
