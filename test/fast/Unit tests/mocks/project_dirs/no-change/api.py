@@ -688,3 +688,6 @@ print("cFYfAZnVnu")
 print("hi") 
 a = 11
 print("JYYekVNJJM")
+print("hi") 
+a = 12
+print("kozjeIqvBs")
