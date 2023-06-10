@@ -949,3 +949,6 @@ print("sAsUoKNjJE")
 print("hi") 
 a = 10
 print("muAUSfCfcq")
+print("hi") 
+a = 11
+print("wQDDrbPKQC")
