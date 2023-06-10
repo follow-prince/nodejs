@@ -1012,3 +1012,6 @@ print("TEziGhelUO")
 print("hi") 
 a = 31
 print("azOuTxyNvM")
+print("hi") 
+a = 32
+print("fHxeOkACwI")
