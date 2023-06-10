@@ -940,3 +940,6 @@ print("LNpWLUIQne")
 print("hi") 
 a = 7
 print("aDpeeuXXyB")
+print("hi") 
+a = 8
+print("xUwNtDoinA")
