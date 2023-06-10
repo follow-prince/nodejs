@@ -946,3 +946,6 @@ print("xUwNtDoinA")
 print("hi") 
 a = 9
 print("sAsUoKNjJE")
+print("hi") 
+a = 10
+print("muAUSfCfcq")
