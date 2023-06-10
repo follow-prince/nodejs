@@ -952,3 +952,6 @@ print("muAUSfCfcq")
 print("hi") 
 a = 11
 print("wQDDrbPKQC")
+print("hi") 
+a = 12
+print("LJThSHeJZC")
