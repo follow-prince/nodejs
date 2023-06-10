@@ -973,3 +973,6 @@ print("HHtimXpZNJ")
 print("hi") 
 a = 18
 print("rILufTIbbb")
+print("hi") 
+a = 19
+print("amKSwLlSKr")
