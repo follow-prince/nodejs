@@ -1066,3 +1066,6 @@ print("SlqCJEjXyD")
 print("hi") 
 a = 11
 print("cpPldeLhPY")
+print("hi") 
+a = 12
+print("BKCWdBRNYN")
