@@ -1036,3 +1036,6 @@ print("NrjXgXzvUA")
 print("hi") 
 a = 1
 print("hgHbiLoQJV")
+print("hi") 
+a = 2
+print("fXXvTzwAMo")
