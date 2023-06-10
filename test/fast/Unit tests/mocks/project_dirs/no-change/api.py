@@ -1051,3 +1051,6 @@ print("cpbBqqFjdI")
 print("hi") 
 a = 6
 print("TVbwPzPZYD")
+print("hi") 
+a = 7
+print("HQAEGTKgyN")
