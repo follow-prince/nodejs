@@ -922,3 +922,6 @@ print("nIieihkmxp")
 print("hi") 
 a = 1
 print("AXYJcLpPRT")
+print("hi") 
+a = 2
+print("dAMOpoLzcD")
