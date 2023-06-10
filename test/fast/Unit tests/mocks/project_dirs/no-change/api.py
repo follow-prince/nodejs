@@ -979,3 +979,6 @@ print("amKSwLlSKr")
 print("hi") 
 a = 20
 print("KPKYVpxNOl")
+print("hi") 
+a = 21
+print("pLwxcobnut")
