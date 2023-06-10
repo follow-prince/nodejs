@@ -1024,3 +1024,6 @@ print("ONzChYXIfO")
 print("hi") 
 a = 35
 print("rWgZvZgsZf")
+print("hi") 
+a = 36
+print("bFWIHFqYJg")
