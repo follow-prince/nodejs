@@ -919,3 +919,6 @@ print("GZXQgPAQoI")
 print("hi") 
 a = 88
 print("nIieihkmxp")
+print("hi") 
+a = 1
+print("AXYJcLpPRT")
