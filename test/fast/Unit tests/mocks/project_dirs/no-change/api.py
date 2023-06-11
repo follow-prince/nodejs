@@ -1192,3 +1192,6 @@ print("nkucMcTSJP")
 print("hi") 
 a = 7
 print("aGBobBwTbV")
+print("hi") 
+a = 8
+print("nHJhyTFWEU")
