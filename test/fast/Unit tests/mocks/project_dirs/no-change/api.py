@@ -1222,3 +1222,6 @@ print("ODnYMtRTeT")
 print("hi") 
 a = 17
 print("iwgNaQOQoJ")
+print("hi") 
+a = 18
+print("shJmOinKTz")
