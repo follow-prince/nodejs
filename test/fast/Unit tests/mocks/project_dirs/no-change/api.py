@@ -1234,3 +1234,6 @@ print("ziqoLxZjrl")
 print("hi") 
 a = 21
 print("wdEYHSNWWF")
+print("hi") 
+a = 22
+print("uhiXVjaDvY")
